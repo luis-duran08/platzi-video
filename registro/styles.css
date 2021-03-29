@@ -59,12 +59,47 @@ body {
   text-decoration: underline;
 }
 
+/* INI FOOTER */
 .footer {
   align-items: center;
   background-color: #8f57fd;
   display: flex;
-  height: 100px;
   width: 100%;
+  height: 150px;
+}
+
+footer section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
+
+.left ul,
+.right ul {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18px;
+  list-style: none;
+}
+
+.left li,
+.right li {
+  color: white;
+  margin: 10px 0;
+}
+
+.left a,
+.right a {
+  text-decoration: none;
+  color: white;
+}
+
+.f-bottom {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 15px;
+  color: white;
 }
 
 .footer a {
@@ -78,6 +113,8 @@ body {
 .footer a:hover {
   text-decoration: underline;
 }
+
+/* FIN FOOTER */
 
 .input {
   background-color: transparent;
