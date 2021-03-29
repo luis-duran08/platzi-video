@@ -80,6 +80,7 @@ ul:hover {
   color: white;
   font-size: 25px;
 }
+
 .input {
   background-color: rgba(255, 255, 255, 0.1);
   border: 2px solid white;
@@ -93,6 +94,7 @@ ul:hover {
   padding: 0px 20px;
   width: 70%;
 }
+
 .categories__title {
   background: #8f57fd;
   color: white;
@@ -195,6 +197,7 @@ ul:hover {
   color: white;
   font-size: 8px;
   margin: 3px 0px;
+}
 
 /* INI FOOTER */
 .footer {
